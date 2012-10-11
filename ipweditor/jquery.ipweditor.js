@@ -1,6 +1,6 @@
 (function($){
 /*
- * Editable 1.3.4
+ * Jquery in place wysiwyg editor
  *
  *
  * Copyright (c) 2009 Arash Karimzadeh (arashkarimzadeh.com)
