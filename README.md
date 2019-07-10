@@ -1,4 +1,4 @@
-I currently work for BlogsPirit. In our products we use some extra libraries, some of them are abandonned.
+I currently work for BlogsPirit. In our products we use some extra libraries, some of them are abandoned.
 
 We try to make them aliva again.
 
